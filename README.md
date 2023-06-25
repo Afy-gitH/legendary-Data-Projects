@@ -1,4 +1,3 @@
-https://www.kapwing.com/videos/64986c67dc2431010d386175
 <p># US Road Accidents Analysis</p>
 
 <p>This repository contains code and analysis for exploring and visualizing the US road accidents dataset. The dataset provides detailed information about accidents that occurred on US roads, including various attributes such as location, weather conditions, severity, and more.</p>
