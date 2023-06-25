@@ -3,8 +3,6 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	
 </head>
 <body lang="en-IN" link="#000080" vlink="#800000" dir="ltr"><p style="line-height: 100%; margin-bottom: 0.15in; border: 1px solid #d9d9e3; padding: 0in; background: #444654">
 <font face="Segoe UI, serif"><font size="6" style="font-size: 27pt"><b>USRoad Accidents Analysis</b></font></font></p>
