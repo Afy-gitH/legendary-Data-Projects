@@ -5,15 +5,9 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
 	<title></title>
 	
-	<style type="text/css">
-		@page { size: 8.5in 11in; margin-left: 0.61in; margin-right: 0.61in; margin-top: 0.53in; margin-bottom: 0.56in }
-		p { line-height: 115%; text-align: left; orphans: 2; widows: 2; margin-bottom: 0.1in; direction: ltr; background: transparent }
-		a:link { color: #000080; so-language: zxx; text-decoration: underline }
-	</style>
 </head>
 <body lang="en-IN" link="#000080" vlink="#800000" dir="ltr"><p style="line-height: 100%; margin-bottom: 0.15in; border: 1px solid #d9d9e3; padding: 0in; background: #444654">
-<font face="Segoe UI, serif"><font size="6" style="font-size: 27pt"><b>US
-Road Accidents Analysis</b></font></font></p>
+<font face="Segoe UI, serif"><font size="6" style="font-size: 27pt"><b>USRoad Accidents Analysis</b></font></font></p>
 <p style="line-height: 100%; margin-top: 0.21in; margin-bottom: 0.21in; border: 1px solid #d9d9e3; padding: 0in; background: #444654">
 <font face="Segoe UI, serif"><font size="3" style="font-size: 12pt">This
 repository contains code and analysis for exploring and visualizing
